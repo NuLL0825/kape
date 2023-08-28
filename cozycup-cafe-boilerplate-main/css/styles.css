@@ -136,6 +136,75 @@ nav a:hover {
 .about h2 {
     font-size: 30px;
     margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.about p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about h3 {
+    font-size: 30px;
+    margin-bottom: 20px;
+    margin-top: 40px;
+}
+
+.about p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about h4 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.about p {
+    font-size: 18px;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+.about h5 {
+    font-size: 30px;
+    margin-bottom: 20px;
+}
+
+.mttcover{
+    width: 900px;
+    height: 400px;
+    margin-top: 40px;
+    display: flex; 
+}
+img{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 30px;
+}
+
+.meet-the-team{
+    width: 300px;
+    height: 100px;
+    margin-left: 250px;
+}
+.meet-the-team1{
+    width: 300px;
+    height: 100px;
+    margin-left: 100px;
+}
+.meet-the-team2{
+    width: 300px;
+    height: 100px;
+    margin-left: 100px;
+}
+
+.about h6 {
+    font-size: 30px;
+    margin-top: 20%;
+    margin-bottom: 20px;
 }
 
 .about p {
