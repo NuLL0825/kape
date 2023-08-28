@@ -26,6 +26,48 @@ nav {
     max-width: 100px;
 }
 
+.our_menu img {
+	max-width: 500px;
+}
+
+.our_menu {
+	width: 900px;
+	height: 300px;
+	justify-content: center;
+	display: flex;
+	align-items: center;
+	margin-top: 150px;
+	margin-bottom: 50px;
+	position: absolute;
+	left: 50%;
+	right: 50%;
+	transform: translateX(-50%)
+}
+
+.cappuccino {
+	margin: 10px;
+	width: 800px;
+	height: 550px;
+	box-shadow: -1px 0 10px #000000;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.croissant {
+	margin: 10px;
+	width: 800px;
+	height: 550px;
+	box-shadow: -1px 0 10px #000000;
+	align-items: center;
+	justify-content: center;
+	text-align: center;
+}
+
+.menu_price {
+	font-size: 2em;
+}
+
 nav ul {
     list-style: none;
     display: flex;
@@ -48,7 +90,7 @@ nav a:hover {
     padding: 150px 0;
     background-image: url('hero-bg.jpg');
     background-size: cover;
-    color: white;
+    color: black;
 }
 
 .hero h1 {
@@ -88,6 +130,7 @@ nav a:hover {
     padding: 100px 0;
     text-align: center;
     background-color: #ede4d6;
+	margin-top: 500px;
 }
 
 .about h2 {
